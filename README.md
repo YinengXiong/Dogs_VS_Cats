@@ -15,7 +15,7 @@
 | Inception V3         |   0.04095|      <20|
 | Xception             |   0.04101|      <20|
 | Inception ResNet V2  |   0.03796|        8|
-| Merge                |   0.03621|        7|
+| Merge                |   0.03582|        7|
 
 ![Result on Kaggle](https://github.com/YinengXiong/Dogs_VS_Cats/raw/master/submit.png)
 
