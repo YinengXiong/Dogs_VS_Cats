@@ -1,8 +1,15 @@
-## Dogs_VS_Cats
+# Dogs_VS_Cats
 
-<font size=4>__[Dogs_VS_Cats competition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)__ on __[Kaggle](https://www.kaggle.com/)__
+<font size=5>__[Dogs_VS_Cats competition](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition)__ on __[Kaggle](https://www.kaggle.com/)<font>__
+<font size=5>__Using Transfer Learning__<font>
 
-### Results
+## Requirements
+* __[TensorFlow](https://www.tensorflow.org)__
+* __[Keras](https://www.keras.io)__
+* __[OpenCV](https://www.opencv.org)__
+* __[Scikit-Learn](http://scikit-learn.org/stable/)__
+
+## Results
 |   Base Model/Model   | LogLoss  | Ranking |
 | :--------:           |     ----:|     --: |
 | Inception V3         |   0.04095|      <20|
@@ -11,5 +18,4 @@
 | Merge                |   0.03621|        7|
 
 ![Result on Kaggle](https://github.com/YinengXiong/Dogs_VS_Cats/raw/master/submit.png)
-
 
