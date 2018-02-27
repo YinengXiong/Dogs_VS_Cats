@@ -10,6 +10,6 @@
 | Inception ResNet V2  |   0.03796|        8|
 | Merge                |   0.03621|        7|
 
-![Result on Kaggle](./submit.png)
+![Result on Kaggle](https://github.com/YinengXiong/Dogs_VS_Cats/raw/master/submit.png)
 
 
