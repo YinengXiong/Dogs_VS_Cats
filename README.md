@@ -20,6 +20,7 @@
 ![Result on Kaggle](https://github.com/YinengXiong/Dogs_VS_Cats/raw/master/submit.png)
 
 ## CAM Visualization
-![CAM](./CAM/CAM.png)
+![CAM](./CAM/CAM_pred.png)
+
 __Jupyter Notebook [here](https://github.com/YinengXiong/Dogs_VS_Cats/blob/master/CAM/CAM%20Visualization.ipynb)__
 
