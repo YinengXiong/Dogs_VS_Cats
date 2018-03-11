@@ -19,10 +19,17 @@
 
 ![Result on Kaggle](https://github.com/YinengXiong/Dogs_VS_Cats/raw/master/submit.png)
 
+
 ## CAM Visualization
+
 ![CAM](./CAM/CAM_pred.png)
 
-![CAM_gif](./CAM/CAM_CAT.gif)
+![CAM_CAT_gif](./CAM/CAM_CAT.gif)
+
+![CAM_DOG_gif](./CAM/CAM_DOG.gif)
 
 __Jupyter Notebook [here](https://github.com/YinengXiong/Dogs_VS_Cats/blob/master/CAM/CAM%20Visualization.ipynb)__
+
+[Class Activation Mapping](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+> Zhou B, Khosla A, Lapedriza A, et al. Learning deep features for discriminative localization[C]//Computer Vision and Pattern Recognition (CVPR), 2016 IEEE Conference on. IEEE, 2016: 2921-2929.
 
