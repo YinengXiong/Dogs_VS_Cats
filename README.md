@@ -22,11 +22,11 @@
 
 ## CAM Visualization
 
-<img src="./CAM/CAM_pred.png" width="256">
+<center><img src="./CAM/CAM_pred.png" width="400"></center>
 
-<img src="./CAM/CAM_CAT.gif" width="256">
+<center><img src="./CAM/CAM_CAT.gif" width="400"></center>
 
-<img src="./CAM/CAM_DOG.gif" width="256">
+<center><img src="./CAM/CAM_DOG.gif" width="400"></center>
 
 
 __Jupyter Notebook [here](https://github.com/YinengXiong/Dogs_VS_Cats/blob/master/CAM/CAM%20Visualization.ipynb)__
